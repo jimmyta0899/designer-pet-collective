@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+  <rect width="800" height="1000" fill="#FFFEFA"/>
+  <rect x="0" y="0" width="800" height="8" fill="#B9975B"/>
+  <text x="56" y="92" font-family="Arial,sans-serif" font-size="18" letter-spacing="5" fill="#6E675C">CRYSTAL COLLECTION</text>
+  <circle cx="400" cy="450" r="150" fill="none" stroke="#B9975B" stroke-width="34"/>
+      <circle cx="400" cy="450" r="150" fill="none" stroke="#FFFEFA" stroke-width="2" opacity="0.6"/>
+      <circle cx="400" cy="300" r="12" fill="#F3EEE6"/>
+  <text x="56" y="880" font-family="Georgia,serif" font-size="62" fill="#1C1A17">Crystal Collar</text>
+  <text x="56" y="930" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#6E675C">THE COLLECTED · DESIGNER PET</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+  <rect width="800" height="1000" fill="#FFFEFA"/>
+  <rect x="0" y="0" width="800" height="8" fill="#9B8EC4"/>
+  <text x="56" y="92" font-family="Arial,sans-serif" font-size="18" letter-spacing="5" fill="#6E675C">LANDFORM SERIES</text>
+  <ellipse cx="400" cy="480" rx="245" ry="86" fill="#9B8EC4" opacity="0.3"/>
+      <ellipse cx="400" cy="470" rx="215" ry="70" fill="#9B8EC4"/>
+      <path d="M250 470 q150 -40 300 0" stroke="#FFFEFA" stroke-width="6" fill="none" opacity="0.5"/>
+  <text x="56" y="880" font-family="Georgia,serif" font-size="62" fill="#1C1A17">Lake</text>
+  <text x="56" y="930" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#6E675C">THE COLLECTED · DESIGNER PET</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+  <rect width="800" height="1000" fill="#FFFEFA"/>
+  <rect x="0" y="0" width="800" height="8" fill="#8FA3B8"/>
+  <text x="56" y="92" font-family="Arial,sans-serif" font-size="18" letter-spacing="5" fill="#6E675C">KNITWEAR</text>
+  <path d="M300 330 L500 330 L560 400 L520 450 L490 420 L490 570 L310 570 L310 420 L280 450 L240 400 Z" fill="#8FA3B8"/>
+      <path d="M330 330 Q400 380 470 330" stroke="#FFFEFA" stroke-width="5" fill="none" opacity="0.5"/>
+  <text x="56" y="880" font-family="Georgia,serif" font-size="62" fill="#1C1A17">Dog Hoodie</text>
+  <text x="56" y="930" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#6E675C">THE COLLECTED · DESIGNER PET</text>
+</svg>

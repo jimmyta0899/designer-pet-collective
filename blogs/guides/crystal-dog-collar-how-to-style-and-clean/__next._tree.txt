@@ -1,0 +1,7 @@
+:HL["/designer-pet-collective/_next/static/chunks/3sl8t2irlgfav.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500&display=swap","style"]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"slug","t":"d","k":"crystal-dog-collar-how-to-style-and-clean","s":[]},"h":96,"c":"$Q4"}]]
+2:[["children",{"s":"guides","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"blogs","h":96,"c":"$Q2"}]]
+0:{"b":"UWri6U9W6G1Bg2bFop3Ic","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jimmyta0899.github.io/designer-pet-collective/sitemap.xml

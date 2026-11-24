@@ -1,0 +1,7 @@
+:HL["/designer-pet-collective/_next/static/chunks/3sl8t2irlgfav.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500&display=swap","style"]
+:HL["/designer-pet-collective/products/dog-hoodie.svg","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"dog-hoodie","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"products","h":96,"c":"$Q2"}]]
+0:{"b":"UWri6U9W6G1Bg2bFop3Ic","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

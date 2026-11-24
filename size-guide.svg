@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" width="600" height="320">
+  <rect width="600" height="320" fill="#F1EBDF"/>
+  <!-- stylized dog silhouette -->
+  <path d="M150 190 q-20 -60 40 -75 q60 -12 90 20 q50 -10 90 20 q30 20 20 60 l0 30 q-10 20 -35 10 l-10 -40 q-60 15 -120 0 l-10 40 q-25 10 -35 -10 z" fill="#F7F3EC" stroke="#1C1A17" stroke-width="3"/>
+  <circle cx="185" cy="115" r="6" fill="#1C1A17"/>
+  <!-- chest measurement -->
+  <path d="M250 120 L250 250" stroke="#B9975B" stroke-width="3" stroke-dasharray="6 4"/>
+  <text x="262" y="190" font-family="Arial,sans-serif" font-size="14" fill="#6E675C">CHEST</text>
+  <!-- neck measurement -->
+  <path d="M205 118 L205 155" stroke="#B9975B" stroke-width="3" stroke-dasharray="6 4"/>
+  <text x="120" y="105" font-family="Arial,sans-serif" font-size="14" fill="#6E675C">NECK</text>
+  <!-- back measurement -->
+  <path d="M300 118 L430 145" stroke="#B9975B" stroke-width="3" stroke-dasharray="6 4"/>
+  <text x="340" y="105" font-family="Arial,sans-serif" font-size="14" fill="#6E675C">BACK LENGTH</text>
+  <text x="300" y="300" font-family="Georgia,serif" font-size="16" fill="#1C1A17" text-anchor="middle">Measure snugly, not tight · Between sizes, size up</text>
+</svg>

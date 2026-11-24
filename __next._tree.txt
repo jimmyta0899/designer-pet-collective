@@ -1,0 +1,8 @@
+:HL["/designer-pet-collective/_next/static/chunks/3sl8t2irlgfav.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500&display=swap","style"]
+:HL["/designer-pet-collective/products/wind-erosion.svg","image"]
+:HL["/designer-pet-collective/products/lake.svg","image"]
+:HL["/designer-pet-collective/products/crystal-collar.svg","image"]
+:HL["/designer-pet-collective/products/cinque-terre.svg","image"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"UWri6U9W6G1Bg2bFop3Ic","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
